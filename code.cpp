@@ -244,4 +244,5 @@ void ArrayFree(int** seats, int rowcount)
 		free(seats[i]);
 	}
 	free(seats);
+system("cls");
 }
